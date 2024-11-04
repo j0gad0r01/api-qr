@@ -1,2 +1,2 @@
 # api-qr
-O QR Code Generator e uma aplicação siples e intuitiva que permite gerar QE Codes personalizados com diferentes tipos de dados, como URLs,texto livre números de telefone, emails e até mesmo informações 
+O QR Code Generator e uma aplicação siples e intuitiva que permite gerar QE Codes personalizados com diferentes tipos de dados, como URLs,texto livre números de telefone, emails e até mesmo informações de contato. Os QR Code gerados podem ser facilmente escaneados por smartphones e utilizados em diveersas situações, como em cartões de visita, sites ou material promocional. Funcionalidades Geração de QR Code para diferentes tipos de dados: URL: Insira um link para gerar um QR code que direciona o usuário para um site especifico. Texto:Insira 
